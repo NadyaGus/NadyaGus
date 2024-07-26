@@ -4,7 +4,7 @@
 🙋🏼‍♀️ I love to study and research new technologies, practice writing code and creating pet-projects, strive to make the code better and more readable, result-oriented. <br>
 🤝I communicate well with different people, I am friendly and non-conflict, will fit into any team. <br>
 📘 I’m currently learning NextJS, but I don’t mind trying other frameworks. <br>
-✍🏻 You can write me a message on Telegram or Discord. I'll try to answer as soon as I can.
+✍🏻 You can write me a message on [Telegram](https://t.me/NadyaGus) or [Discord](https://discordapp.com/users/216174416516612096/). I'll try to answer as soon as I can.
 
 
 ### My BEST Projects:
